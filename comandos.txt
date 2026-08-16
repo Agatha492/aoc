@@ -1,0 +1,17 @@
+cd nome-da-pasta
+> comando usado no terminal(cmd) para entrar na pasta
+
+ls 
+> comando para listar o que tem dentro da pasta
+
+git 
+> git é um programa pra programar
+
+chaves ssh
+> eu criei a chave ssh e copiei a chave publica para salvar no git hub
+
+git hub
+> git hub é o google drive para códigos
+
+git clone código-copiado-do-repositorio-no-github
+> comando do git usado para clonar (copiar) o repositório que eu criei no github
