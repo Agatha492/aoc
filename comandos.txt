@@ -14,4 +14,11 @@ git hub
 > git hub é o google drive para códigos
 
 git clone código-copiado-do-repositorio-no-github
-> comando do git usado para clonar (copiar) o repositório que eu criei no github
+> comando do git usado para clonar (copiar) o repositório que eu criei no GitHub
+
+
+
+
+
+
+
